@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dimitar Belchev</h1>
 <h3 align="center">Junior Web developer</h3>
 
-- 🔭 I’m currently working on **Typescript, GraphQL, Testing**
-
 - 🌱 I’m currently learning **TypeScript, GraphQL, Testing**
 
 - 👨‍💻 All of my projects are available at [https://dimitar-belchev-portfolio.onrender.com/](https://dimitar-belchev-portfolio.onrender.com/)
