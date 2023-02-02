@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **TypeScript, GraphQL, Testing**
 
-- 👨‍💻 All of my projects are available at [https://dimitar-belchev-portfolio.onrender.com/](https://dimitar-belchev-portfolio.onrender.com/)
-
 - 💬 Ask me about **JavaScript, ReactJS, HTML, CSS, NodeJS, ExpressJS**
 
 - 📫 How to reach me **dimitarbelchev98@gmail.com**
