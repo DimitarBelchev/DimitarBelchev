@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dimitarbelchev98@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/DimitarBelchev/resume/blob/main/Dimitar_Belchev_-_JS_Web_Developer.pdf](https://github.com/DimitarBelchev/resume/blob/main/Dimitar_Belchev_-_JS_Web_Developer.pdf)
+- 📄 Know about my experiences [https://github.com/DimitarBelchev/resume/blob/main/Dimitar%20Belchev%20-%20JS%20Web%20Developer.pdf](https://github.com/DimitarBelchev/resume/blob/main/Dimitar_Belchev_-_JS_Web_Developer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
