@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Dimitar Belchev</h1>
 <h3 align="center">Junior Web developer</h3>
 
-- 🌱 I’m currently learning **TypeScript, Algorithms, GraphQL and Testing**
-
 - 💬 Ask me about **JavaScript, ReactJS, HTML, CSS, NodeJS, ExpressJS**
 
 - 📫 How to reach me **dimitarbelchev98@gmail.com**
