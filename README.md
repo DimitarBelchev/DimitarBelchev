@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dimitar Belchev</h1>
 <h3 align="center">Junior Web developer</h3>
 
-- 💬 Ask me about **JavaScript, ReactJS, HTML, CSS, NodeJS, ExpressJS**
+- 💬 Ask me about **JavaScript, TypeScript, NextJS, ReactJS, HTML, CSS, NodeJS, ExpressJS**
 
 - 📫 How to reach me **dimitarbelchev1998@gmail.com**
 
